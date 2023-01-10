@@ -1,6 +1,6 @@
 {
   "name": "moira_bot",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "TODO: fill this out with relevant stuff",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
+    "matrix-bot-sdk": "^0.6.3",
     "soap": "^1.0.0",
     "typescript": "^4.9.4"
   },

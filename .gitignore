@@ -3,3 +3,6 @@ node_modules
 personal.cert
 personal.key
 moira_example.ts
+get_token.ts
+token.txt
+storage.json
