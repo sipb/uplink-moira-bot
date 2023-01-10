@@ -1,4 +1,4 @@
 #!/bin/bash
 
 npx tsc
-node bot.ts
+node bot.js
